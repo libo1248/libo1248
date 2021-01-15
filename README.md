@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+[![LeeBo's github stats](https://github-readme-stats.vercel.app/api?username=libo1248&show_icons=true&theme=onedark)](https://github.com/libo1248/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=libo1248)](https://github.com/libo1248/github-readme-stats)
