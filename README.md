@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 --> 
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-[![LeeBo's github stats](https://github-readme-stats.vercel.app/api?username=libo1248&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=libo1248&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![LeeBo's github stats](https://readme-git-master.libo1248.vercel.app/api?username=libo1248&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://readme-git-master.libo1248.vercel.app/api/top-langs/?username=libo1248&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
